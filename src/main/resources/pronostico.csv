@@ -1,0 +1,11 @@
+﻿id persona,nombre,id partido,id equipo 1,id ganador,id equipo 2
+1,Pedro,1,1,1,2
+1,Pedro,2,3,3,4
+1,Pedro,3,1,1,4
+1,Pedro,4,3,0,2
+1,Pedro,5,2,2,4
+2,Mariana,1,1,1,2
+2,Mariana,2,3,3,4
+2,Mariana,3,1,4,4
+2,Mariana,4,3,2,2
+2,Mariana,5,2,0,4
